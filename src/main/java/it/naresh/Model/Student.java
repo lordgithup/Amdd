@@ -26,6 +26,8 @@ public class Student {
 	@NaturalId(mutable = true)
 	private String email;
 	private String department;
+	private String email;
+	private String department;
 
 	public Long getId() {
 		return id;
