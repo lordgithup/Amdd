@@ -18,6 +18,7 @@ public class Student {
 	private String firstName;
 	private String lastName;
 	private String deom;
+	private String deom;
 	@NaturalId(mutable = true)
 	private String email;
 	private String department;
